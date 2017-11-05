@@ -1,0 +1,19 @@
+{
+  "name": "urq_project",
+  "version": "1.0.0",
+  "description": "website of our senior project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanistaSrilerjan/UrQ-Website.git"
+  },
+  "author": "Janista-and-Tarika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanistaSrilerjan/UrQ-Website/issues"
+  },
+  "homepage": "https://github.com/JanistaSrilerjan/UrQ-Website#readme"
+}
