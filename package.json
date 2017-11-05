@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JanistaSrilerjan/UrQ-Website/issues"
   },
-  "homepage": "https://github.com/JanistaSrilerjan/UrQ-Website#readme"
+  "homepage": "https://github.com/JanistaSrilerjan/UrQ-Website#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
